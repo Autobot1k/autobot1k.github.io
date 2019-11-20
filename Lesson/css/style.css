@@ -19,7 +19,7 @@
 }
 .form{
 	border: 5px solid #2727d9;
-	padding: 30px 20px;		 
+	padding: 49px 20px;		 
 }
 .form-btn{
 	margin: 12px auto;
@@ -36,6 +36,7 @@
 }
 .video{
 	margin-bottom: 40px;
+	border: 5px solid #2727d9;
 }
 .feature-box{
 	height: 160px;
